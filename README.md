@@ -18,17 +18,37 @@ Principles
 
 The goal is to have a functional domain for developers to use.
 
-In the meantime
----------------
-We have issues to solve, questions to answer, plans to make, and stuff
-to organize. Those are organized in [the issues section][2].
+Request for comments
+--------------------
+Elaborating the policies, the application, the whole thing will be
+crowdsourced. This is a big project and we need plenty of people to
+pitch in!
 
 We are going to use this repo as a folder for everything (documents) we
 need. So we'll be drafting policies, applications, you name it.
 
-So pitch in, create an issue, make a pull request, discuss them! 
+We have issues to solve, questions to answer, plans to make, and stuff
+to organize. Those are organized in [the issues section][2].
+
+* Love marketing? We're going to [need some help with that][3].
+* Have some opinion on the policies we should have? [Good][4].
+* Speak legalese? We [need you here][5].
+* Know how things should work on the technical side? [Show us][6]!
+* Namespacing geek? Yup, [that's important][7].
+* ICANN and governmenty insider? [Come here please][8]!
+* Concerned about who will run this thing? [Pitch in][9]!
+
+So volunteer, create an issue, make a pull request, discuss it! 
 
 Let's get cracking!
+
+[3]: https://github.com/dot-src/dot-src/issues?labels=marketing
+[4]: https://github.com/dot-src/dot-src/issues?labels=policies
+[5]: https://github.com/dot-src/dot-src/issues?labels=legal
+[6]: https://github.com/dot-src/dot-src/issues?labels=technical
+[7]: https://github.com/dot-src/dot-src/issues?labels=namespace
+[8]: https://github.com/dot-src/dot-src/issues?labels=icann
+[9]: https://github.com/dot-src/dot-src/issues?labels=governance
 
 Preliminary plan
 ----------------
