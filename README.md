@@ -41,6 +41,26 @@ Preliminary plan
 * Get accepted
 * Manage the "thing"
 
+Q&A
+---
+### Why not use `.io`?
+* Registration isn't cheap (£60, $100)
+* It is controlled by another entity and country
+* It doesn't have the same interests as the developer community
+* It doesn't have specific policies against parking/spam, etc.
+
+### Who will run this?
+For now, as the project is in its infancy, I,
+[@joallard](//github.com/joallard), will see to its maintenance.
+
+As it grows bigger, I expect a ~~comittee~~ ~~team~~ taskforce to steer
+the project and eventually make it into a non-profit entity. The
+specifics remain to be determined by... community consensus.
+
+An early suggestion inherited from TLD.js would be getting under
+Mozilla.org's non-profit umbrella, but the we can figure this out after
+a successful application.
+
 ## Still-relevant text inherited from TLD.js
 ### Why?
 Okay, this is kind of a vanity TLD, but we freaking build the
@@ -63,14 +83,5 @@ funds to navigate the unknown waters of securing our TLD.
 
 ``.js`` domains will be  as inexpensive as possible. We'll figure out a
 way to reward everyone who helped us secure this TLD.
-
-### Who will run this?  
-[I](http://github.com/ozten) and the signers
-below, offer to volunteer our time to organize this applicaiton process.
-If we get it, we'll create a governance committee to figure how to best
-steward this beast.
-
-An early suggestion would be getting under Mozilla.org's non-profit
-umbrella, but the we can figure this out after a successful application.
 
 [2]: //github.com/joallard/dot-src/issues
