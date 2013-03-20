@@ -66,20 +66,3 @@ steward this beast.
 An early suggestion would be getting under Mozilla.org's non-profit
 umbrella, but the we can figure this out after a successful application.
 
-### Signers
-* [Austin King](http://github.com/ozten)
-* [Lloyd Hilaiel](https://github.com/lloyd)
-* [Chris Williams](https://github.com/voodootikigod)
-* [Irakli Gozalishvili](https://github.com/Gozala)
-* [Jed Parsons](https://github.com/jedp/)
-* [Anthony Catel](https://github.com/paraboul/)
-* [Zach Carter](https://github.com/zaach)
-* [Ryan Freebern](https://github.com/rfreebern)
-* [Andris Reinman](https://github.com/andris9)
-* [Juan Pablo Buritica](https://github.com/buritica)
-* [Anant Narayanan](https://github.com/anantn)
-* [Andrew Chalkley](https://github.com/chalkers)
-* [Victor Coulon](https://github.com/victa)
-* [John Le Drew](https://github.com/antz29)
-* [Casey Becking](https://github.com/caseybecking)
-* [Jake Luer](https://github.com/logicalparadox)
