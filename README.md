@@ -10,7 +10,7 @@ must have a beginning.
 
 Principles
 ----------
-DotSRC is...
+.src is...
 
 * Affordable
 * Community-driven
